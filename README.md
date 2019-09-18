@@ -1,8 +1,8 @@
-#FizzBuzz
+# FizzBuzz
 
 Simple console-mode FizzBuzz program.
 
-##Usage
+## Usage
 
 ''''bash
 java [options] edu.cnm.deepdive.FizzBuzz [upperLimit]
